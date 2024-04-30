@@ -1,0 +1,28 @@
+/** @format */
+
+.body {
+  font: sans-serif;
+  background-color: antiquewhite;
+}
+
+.container-header {
+  height: 5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  background-color: lightblue;
+}
+
+.container-header button {
+  margin-left: 1rem;
+}
+.container-header button img {
+  height: 1rem;
+}
+
+.footer {
+  background-color: black;
+  font: white;
+  font-size: 13px;
+}
